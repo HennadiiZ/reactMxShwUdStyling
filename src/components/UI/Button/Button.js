@@ -1,9 +1,8 @@
 // import React from 'react';
+// import './Button.css';
+// const Button = styled.button``;
 import styled from 'styled-components';
 
-// import './Button.css';
-
-// const Button = styled.button``;
 
 const Button = styled.button`
   font: inherit;
