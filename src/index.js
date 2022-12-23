@@ -6,3 +6,6 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
+// 075 Setting Dynamic Inline Styles
+
