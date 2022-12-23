@@ -14,3 +14,5 @@ root.render(<App />);
 // 077 Introducing Styled Components
     // styled components https://styled-components.com
     // npm install --save styled-components
+
+// 078 Styled Components & Dynamic Props
